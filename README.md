@@ -3,6 +3,6 @@
 - 🌱 I’m always learning :)
 - 📫 info.hamed1029@gmail.com
 
-Android Development
-Java - kottlin - python
-happy progmrammer :)
+- Android Development
+- Java - kottlin - python
+- happy progmrammer :)
