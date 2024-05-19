@@ -4,5 +4,5 @@
 - 📫 info.hamed1029@gmail.com
 
 - Android Development
-- Java - kottlin - python
+- Java - kottlin
 - happy progmrammer :)
